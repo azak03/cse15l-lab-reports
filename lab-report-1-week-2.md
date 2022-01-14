@@ -1,2 +1,1 @@
-![Image](Capture.PNG)
-<-- the screenshot!
+# Lab Report: How to Log in to your ieng6 Course Account
