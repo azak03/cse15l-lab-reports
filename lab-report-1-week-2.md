@@ -4,7 +4,7 @@ This tutorial will teach you how to install
 ## Step 1: Installing VSCode
 To begin, you need to install **VSCode** from the following link: [VSCode Download](https://code.visualstudio.com/)	
 
-Once you have it installed, it should look like *this*
+Once you have it installed, it should look like *this:*
 
 ## Step 2: Remotely Connecting
 
@@ -22,4 +22,6 @@ To ensure you're connected correctly, try out some commands! For example, the "l
 An example of this can be seen here:
 
 
-## Step 4
+## Step 4: File transfer with SCP
+
+
