@@ -48,3 +48,10 @@ $ scp /Users/**YOURNAME**/.ssh/id_rsa.pub cs15lwi22**ID**@ieng6.ucsd.edu:~/.ssh/
 Notice that the prompt to input a password no longer appears:
 
 ![image](https://user-images.githubusercontent.com/97641168/149600969-f85ff122-1ee2-4005-9b3a-fd73544c707f.png)
+
+## Step 6: Optimize and improve your setup
+
+If you want to run multiple commands on the host, you can separate your commands with semicolons!
+
+![image](https://user-images.githubusercontent.com/97641168/149601646-6a0f95a6-fa3b-45c3-86d3-2ba0faa7bb15.png)
+
