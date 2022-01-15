@@ -43,7 +43,7 @@ $ ssh-keygen
 If you don't already, you may need the following ssh-add steps from [here.](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
 
 Next, you will need to SCP the generated .ssh file to the server:
-$ scp /Users/**YOURNAME*/.ssh/id_rsa.pub cs15lwi22**ID**@ieng6.ucsd.edu:~/.ssh/authorized_keys
+$ scp /Users/**YOURNAME**/.ssh/id_rsa.pub cs15lwi22**ID**@ieng6.ucsd.edu:~/.ssh/authorized_keys
 
 Notice that the prompt to input a password no longer appears:
 
