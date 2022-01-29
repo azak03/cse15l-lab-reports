@@ -3,7 +3,7 @@
 ## Example 1: firstline.md
 
 Failure-inducing file:
-https://github.com/azak03/markdown-parse/blob/main/test-file.md
+[Link](https://github.com/azak03/markdown-parse/blob/main/test-file.md)
 
 The issue produced by this file (we actually made an image tag to hi.png, not a link tag!):
 
@@ -20,7 +20,7 @@ This bug is the result of not checking whether or not the brackets include a "!"
 ## Example 2: noParen.md
 
 Failure-inducing file:
-https://github.com/azak03/markdown-parse/blob/main/noParen.md
+[Link](https://github.com/azak03/markdown-parse/blob/main/noParen.md)
 
 The error produced by this file:
 
@@ -37,7 +37,7 @@ This bug occurs because the program tries to locate the first open paranthesis i
 # Example 3: firstline.md
 
 Failure-inducing file:
-https://github.com/azak03/markdown-parse/blob/main/firstline.md
+[Link](https://github.com/azak03/markdown-parse/blob/main/firstline.md)
 
 The error produced by this file:
 
