@@ -5,6 +5,7 @@
 ![image](https://user-images.githubusercontent.com/97641168/153780335-19b61c3e-7db6-40fd-b466-268920220711.png)
 
 In this image, we set up the config file in our C:/Users/user/.ssh folder. This config specifies:
+
 Line 1: The Host alias
 
 Line 2: The host name, AKA the url of the server to connect to
