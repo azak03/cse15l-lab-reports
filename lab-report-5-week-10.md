@@ -39,7 +39,7 @@ Results on my implementation:
 
 ![image](https://user-images.githubusercontent.com/97641168/157918691-387c3e79-518f-42fb-8ea7-353c6a64d8da.png)
 
-According to spec.commonmark.org testing, both cases here are incorrect. Because [foo]: /url1 is included in the test file, the true link should not be blank and should not be "not a link" but should actually be to the URL in the last line, which is the current url with "/url1" added. 
+According to spec.commonmark.org testing, both cases here are incorrect. Because [foo]: /url1 is included in the test file, the true link should not be blank and should not be "not a link" but should actually be to the URL in the last line, which is the current url with "/url1" added. However, because we are not working with a URL to append /url1 to the end of, the given implementation result may be considered correct in a testing sense, but if it were implemented on a webpage, would be incorrect.
 
 ![image](https://user-images.githubusercontent.com/97641168/157919941-dcb16be6-afab-4539-814d-23efa553c3df.png)
 
